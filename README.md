@@ -3,7 +3,7 @@ CacheConcept
 
 Hack Nashville 5 project - well, my part of it.
 
-This is basically just a quick proof-of-concept for querying a cache table instead of the database.
+This is basically just a quick proof-of-concept for querying a cache table instead of the database for repeated queries.
 
 Setup
 -----
